@@ -1,0 +1,5 @@
+baseURL = 'https://hugosite.github.io/'
+languageCode = 'en-us'
+title = 'FreeStyle Libre Site'
+theme = 'PaperMod'
+publishDir = 'docs'
