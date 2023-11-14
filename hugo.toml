@@ -1,4 +1,4 @@
-baseURL = 'https://kodzhesyan.github.io/hugosite.github.io/'
+baseURL = 'https://hugosite.github.io/'
 languageCode = 'en-us'
 title = 'FreeStyle Libre Site'
 theme = 'PaperMod'
